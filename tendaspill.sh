@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# "We're here to observe another kind of code. The bad code." - Root, Person of Interest
+#
 
 IP=$1
 echo ""
